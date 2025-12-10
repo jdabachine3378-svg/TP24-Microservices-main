@@ -339,14 +339,6 @@ Ce projet est un projet éducatif réalisé dans le cadre d'un TP sur les micros
 
 **Projet réalisé par jamila dabachine**
 
-Encadré dans le cadre des projets Microservices & SmartHome.
 
-## 🙏 Remerciements
 
-- Spring Boot pour le framework backend
-- Angular pour le framework frontend
-- PrimeNG pour les composants UI
-- Docker pour la containerisation
-
----
 
